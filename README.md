@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/github/license/bhargavgurugubelli/portfolio-website.svg?color=blue)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./screen-capture%20(13).webm)
+![3D portfolio preview](./public/images/screenshot_hero.png)
 
 A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
 
