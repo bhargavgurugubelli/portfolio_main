@@ -15,8 +15,8 @@ To get the codebase running locally on your machine, follow these steps:
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/YOUR_USERNAME/portfolio_main.git
+   cd portfolio_main
    ```
 
 3. **Install Dependencies**

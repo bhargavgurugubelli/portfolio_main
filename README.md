@@ -1,8 +1,8 @@
 # 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
 
-[![GitHub Stars](https://img.shields.io/github/stars/bhargavgurugubelli/portfolio-website.svg?style=social)](https://github.com/bhargavgurugubelli/portfolio-website/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/bhargavgurugubelli/portfolio-website.svg?style=social)](https://github.com/bhargavgurugubelli/portfolio-website/network/members)
-[![MIT License](https://img.shields.io/github/license/bhargavgurugubelli/portfolio-website.svg?color=blue)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/bhargavgurugubelli/portfolio_main.svg?style=social)](https://github.com/bhargavgurugubelli/portfolio_main/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/bhargavgurugubelli/portfolio_main.svg?style=social)](https://github.com/bhargavgurugubelli/portfolio_main/network/members)
+[![MIT License](https://img.shields.io/github/license/bhargavgurugubelli/portfolio_main.svg?color=blue)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ![3D portfolio preview](./public/images/screenshot_hero.png)
@@ -11,7 +11,7 @@ A modern, high-performance **3D developer portfolio website** built with **React
 
 If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
 
-> Live preview: https://bhargavgurugubelli.github.io/portfolio-website/ (or your deployed URL)
+> Live preview: https://bhargavgurugubelli.github.io/portfolio_main/ (or your deployed URL)
 
 ---
 
@@ -53,8 +53,8 @@ If you’re a developer looking for a **portfolio template** that feels premium,
 ### 1) Clone
 
 ```bash
-git clone https://github.com/bhargavgurugubelli/portfolio-website.git
-cd portfolio-website
+git clone https://github.com/bhargavgurugubelli/portfolio_main.git
+cd portfolio_main
 ```
 
 ### 2) Install
